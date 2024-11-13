@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\papernyukro\\source\\repos\\StudentManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AADBFB06-C1F4-4B5B-8EEC-7CE538EE5691}|StudentManagementApp\\StudentManagementApp.csproj|c:\\users\\papernyukro\\source\\repos\\studentmanagementapp\\studentmanagementapp\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADBFB06-C1F4-4B5B-8EEC-7CE538EE5691}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADBFB06-C1F4-4B5B-8EEC-7CE538EE5691}|StudentManagementApp\\StudentManagementApp.csproj|c:\\users\\papernyukro\\source\\repos\\studentmanagementapp\\studentmanagementapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADBFB06-C1F4-4B5B-8EEC-7CE538EE5691}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADBFB06-C1F4-4B5B-8EEC-7CE538EE5691}|StudentManagementApp\\StudentManagementApp.csproj|c:\\users\\papernyukro\\source\\repos\\studentmanagementapp\\studentmanagementapp\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AADBFB06-C1F4-4B5B-8EEC-7CE538EE5691}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADBFB06-C1F4-4B5B-8EEC-7CE538EE5691}|StudentManagementApp\\StudentManagementApp.csproj|c:\\users\\papernyukro\\source\\repos\\studentmanagementapp\\studentmanagementapp\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADBFB06-C1F4-4B5B-8EEC-7CE538EE5691}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADBFB06-C1F4-4B5B-8EEC-7CE538EE5691}|StudentManagementApp\\StudentManagementApp.csproj|c:\\users\\papernyukro\\source\\repos\\studentmanagementapp\\studentmanagementapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADBFB06-C1F4-4B5B-8EEC-7CE538EE5691}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 302,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\papernyukro\\source\\repos\\StudentManagementApp\\StudentManagementApp\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\papernyukro\\source\\repos\\StudentManagementApp\\StudentManagementApp\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "StudentManagementApp\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:22:18.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\papernyukro\\source\\repos\\StudentManagementApp\\StudentManagementApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\papernyukro\\source\\repos\\StudentManagementApp\\StudentManagementApp\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagementApp\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:22:16.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\papernyukro\\source\\repos\\StudentManagementApp\\StudentManagementApp\\UserWindow.xaml",
+              "RelativeDocumentMoniker": "StudentManagementApp\\UserWindow.xaml",
+              "ToolTip": "C:\\Users\\papernyukro\\source\\repos\\StudentManagementApp\\StudentManagementApp\\UserWindow.xaml",
+              "RelativeToolTip": "StudentManagementApp\\UserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T03:45:18.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\papernyukro\\source\\repos\\StudentManagementApp\\StudentManagementApp\\UserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\UserWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\papernyukro\\source\\repos\\StudentManagementApp\\StudentManagementApp\\UserWindow.xaml.cs",
+              "RelativeToolTip": "StudentManagementApp\\UserWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:43:35.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\papernyukro\\source\\repos\\StudentManagementApp\\StudentManagementApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\papernyukro\\source\\repos\\StudentManagementApp\\StudentManagementApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StudentManagementApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwE0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:17:02.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 98,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
